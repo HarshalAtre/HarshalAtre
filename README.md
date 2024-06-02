@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshalAtre
 - 👀 I’m interested in coding , web devlopment, tech around consoles and pc
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on nothing😅
+- 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me - harshalatre2@gmail.com
 
 <!---
