@@ -2,7 +2,7 @@
 
 <h1> Hello , I'm Harshal Atre, a Developer/Programmer 👋🏼 </h1>
 
-🔭 I’m currently working on ML/DL Projects<br>👯 I’m looking to collaborate on Projects around my skills<br>🌱 I’m currently learning Web Scraping<br>💬 Ask me about Anything you want to know about me
+🔭 I’m currently Doing Open source contribution <br>👯 I’m looking to collaborate on Projects around my skills<br>🌱 I’m currently learning Web Scraping and System design <br>💬 Ask me about Anything you want to know about me
 
 
 ## 🌐 Socials:
