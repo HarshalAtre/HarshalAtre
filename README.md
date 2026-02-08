@@ -6,7 +6,7 @@
 💼 Former Intern at Amazon <br>
 👯 I’m looking to collaborate on projects aligned with my skills <br>
 🌱 I’m currently learning Web Scraping and System Design <br>
-💬 Ask me about anything you want to know about me
+💬 Ask me about anything you want to know about me😄
 
 
 
