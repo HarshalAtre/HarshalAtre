@@ -3,7 +3,7 @@
 <h1> Hello, I'm Harshal Atre, a Developer/Programmer 👋🏼 </h1>
 
 🔭 I’m currently doing Open Source contributions <br>
-💼 Former Intern at Amazon <br>
+💼 GSoC'26 , Former Intern at Amazon <br>
 👯 I’m looking to collaborate on projects aligned with my skills <br>
 🌱 I’m currently learning System Design <br>
 💬 Ask me about anything you want to know about me😄
