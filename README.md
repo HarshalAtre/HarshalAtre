@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1> Hello, I'm Harshal Atre, a Developer/Programmer 👋🏼 </h1>
+<h1> Hello, I'm Harshal Atre, a Developer/Programmer 👨‍💻 </h1>
 
 🔭 I’m currently doing Open Source contributions <br>
 💼 GSoC'26 , Former Intern at Amazon <br>
